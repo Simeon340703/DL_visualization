@@ -1,3 +1,6 @@
 [submodule "netron"]
 	path = netron
 	url = https://github.com/lutzroeder/netron
+[submodule "PlotNeuralNet"]
+	path = PlotNeuralNet
+	url = https://github.com/HarisIqbal88/PlotNeuralNet
