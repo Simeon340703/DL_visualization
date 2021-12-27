@@ -4,3 +4,6 @@
 [submodule "PlotNeuralNet"]
 	path = PlotNeuralNet
 	url = https://github.com/HarisIqbal88/PlotNeuralNet
+[submodule "flashtorch"]
+	path = flashtorch
+	url = https://github.com/MisaOgura/flashtorch
