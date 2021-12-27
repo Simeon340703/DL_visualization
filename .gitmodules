@@ -10,3 +10,6 @@
 [submodule "dl-visualization"]
 	path = dl-visualization
 	url = https://github.com/vivek3141/dl-visualization
+[submodule "pytorch-cnn-visualizations"]
+	path = pytorch-cnn-visualizations
+	url = https://github.com/utkuozbulak/pytorch-cnn-visualizations
