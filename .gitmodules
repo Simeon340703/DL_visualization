@@ -19,3 +19,6 @@
 [submodule "deep-visualization-toolbox"]
 	path = deep-visualization-toolbox
 	url = https://github.com/yosinski/deep-visualization-toolbox
+[submodule "draw_convnet"]
+	path = draw_convnet
+	url = https://github.com/gwding/draw_convnet
