@@ -16,3 +16,6 @@
 [submodule "Tools-to-Design-or-Visualize-Architecture-of-Neural-Network"]
 	path = Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 	url = https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+[submodule "deep-visualization-toolbox"]
+	path = deep-visualization-toolbox
+	url = https://github.com/yosinski/deep-visualization-toolbox
