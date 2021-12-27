@@ -7,3 +7,6 @@
 [submodule "flashtorch"]
 	path = flashtorch
 	url = https://github.com/MisaOgura/flashtorch
+[submodule "dl-visualization"]
+	path = dl-visualization
+	url = https://github.com/vivek3141/dl-visualization
