@@ -22,3 +22,6 @@
 [submodule "draw_convnet"]
 	path = draw_convnet
 	url = https://github.com/gwding/draw_convnet
+[submodule "tikz_cnn"]
+	path = tikz_cnn
+	url = https://github.com/jettan/tikz_cnn
